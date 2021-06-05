@@ -1,0 +1,2 @@
+rootProject.name = "Freshworksgif"
+include ':app'

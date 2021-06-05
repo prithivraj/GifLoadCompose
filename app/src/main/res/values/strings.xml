@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Freshworksgif</string>
+    <string name="error_network">Network error</string>
+    <string name="no_network">No Network Connected</string>
+    <string name="error_empty_body">Empty response</string>
+    <string name="search">Search</string>
+</resources>
